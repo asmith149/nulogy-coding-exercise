@@ -47,7 +47,6 @@ public class NuPackEstimator {
 	  NegativePersonCountException, ProductCategoryNotSpecifiedException {
 		BigDecimal finalCost;
 		BigDecimal afterFlatMarkup;
-		BigDecimal afterAllMarkups;
 		BigDecimal basePrice = this.basePrice;
 		String category = this.category;
 		int personCount = this.personCount;
