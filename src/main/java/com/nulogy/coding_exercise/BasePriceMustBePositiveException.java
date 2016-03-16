@@ -1,4 +1,4 @@
-package com.nulogy.coding_exercise;
+package main.java.com.nulogy.coding_exercise;
 
 public class BasePriceMustBePositiveException extends Exception {
 

@@ -1,10 +1,15 @@
-package com.nulogy.coding_exercise;
+package test.java.com.nulogy.coding_exercise;
 
-import static org.junit.Assert.*;
+import static org.junit.Assert.assertEquals;
 
 import java.math.BigDecimal;
 
 import org.junit.Test;
+
+import main.java.com.nulogy.coding_exercise.BasePriceMustBePositiveException;
+import main.java.com.nulogy.coding_exercise.NegativePersonCountException;
+import main.java.com.nulogy.coding_exercise.NuPackEstimator;
+import main.java.com.nulogy.coding_exercise.ProductCategoryNotSpecifiedException;
 
 public class NuPackEstimatorTest {
 
