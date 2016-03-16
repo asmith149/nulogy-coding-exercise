@@ -18,7 +18,7 @@ public class NuPackEstimator {
 	
 	private static final double PHARM_MARKUP = 0.075;
 	private static final double FOOD_MARKUP = 0.13;
-    private static final double ELECTRONICS_MARKUP = 0.02;
+        private static final double ELECTRONICS_MARKUP = 0.02;
 	private static final String PHARMACEUTICALS = "pharmaceuticals";
 	private static final String DRUGS = "drugs";
 	private static final String FOOD = "food";
