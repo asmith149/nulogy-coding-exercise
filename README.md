@@ -1,7 +1,9 @@
 # nulogy-coding-exercise
 
 Coding Exercise for Nulogy
+
 By Andrew Smith
+
 March 15th, 2016
 
 Assumptions:
