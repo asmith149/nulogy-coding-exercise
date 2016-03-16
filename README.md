@@ -30,3 +30,8 @@ code.
   up to two decimal places.
   
 6) return value is a BigDecimal rounded up to two decimal places.
+
+Build and Run:
+==============
+Note that maven must be installed on the machine where the repository is fetched from github
+1) from 'nulogy-coding-exercise' folder, run 'mvn clean install', which will build and run all JUnit tests
